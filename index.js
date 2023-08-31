@@ -1,3 +1,3 @@
-function sum() {
-  
-}
+function stringLength(string) {
+    return string.length;
+  }
